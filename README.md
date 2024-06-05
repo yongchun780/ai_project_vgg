@@ -1,6 +1,8 @@
 # Automatic Defect Detection in Manufacturing Using VGG
 
-## Authors: Yongchun Chen, Zhuochen Dai
+## Authors
+- Yongchun Chen
+- Zhuochen Dai
 
 ## Overview
 
