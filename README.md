@@ -1,7 +1,3 @@
-Sure, here's an updated version of the README without the reference section and with the appropriate changes.
-
----
-
 # AI Project: Automatic Defect Detection in Manufacturing Using VGG
 
 ## Overview
