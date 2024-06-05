@@ -1,4 +1,6 @@
-# AI Project: Automatic Defect Detection in Manufacturing Using VGG
+# Automatic Defect Detection in Manufacturing Using VGG
+
+## Authors: Yongchun Chen, Zhuochen Dai
 
 ## Overview
 
